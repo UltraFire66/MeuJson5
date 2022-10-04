@@ -41,58 +41,13 @@
 	      "Idfornecedor": 7
      },
      
-     ],
-     
-     
-     
-     
-     
-     
-     "fornecedor": [{
-	      "idFornecedor": 5,
-	      "nome": "Bozano",
-	      "cidade": "Cidade sede",
-	      "rua": "rua do desodorante sla",
-	      "numero": 55
-	      
-	     
-     },
-     
-     {
-	      "idFornecedor": 10,
-	      "nome": "Old Spice",
-	      "cidade": "Cidade sede",
-	      "rua": "rua do desodorante Bozano sla",
-	      "numero": 177
-	      
-	      
-	     
-     },
-	        
-     
-     {
-	      "idFornecedor": 7,
-	      "nome": "Cascorel",
-	      "cidade": "Cidade sede",
-	      "rua": "rua da cola",
-	      "numero": 90
-	      
-	     
-     },
-		    
-     
-      {
-	      "idFornecedor": 22,
-	      "nome": "Dragão",
-	      "cidade": "Cidade sede",
-	      "rua": "rua do senhor dos aneis",
-	      "numero": 45
-	      
-	      
-     }
-     
      ]
-
-	
+     
+     
+     
+     
+     
+     
+    
 
 }
